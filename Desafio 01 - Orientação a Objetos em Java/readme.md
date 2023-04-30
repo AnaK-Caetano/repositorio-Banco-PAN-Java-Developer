@@ -11,12 +11,13 @@ Construir um projeto sobre o paradigma de programação orientada a objeto, um m
 
 <h2> 🛠 Tecnologias Utilizadas </h2>
 
-[-]IntelliJ
-[-]GitHub
+IntelliJ
+GitHub
 
 
 <h2> 🔗 Links Úteis </h2>
 https://www.toptal.com/developers/gitignore
+https://katalonsupport.force.com/katalonhelpcenter/s/article/How-to-fix-Git-Clone-Filename-too-long-Error-in-Windows ->path too long
 
 
 
