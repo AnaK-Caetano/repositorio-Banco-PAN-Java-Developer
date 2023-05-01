@@ -1,4 +1,4 @@
-P### Para execução do programa no windows, o uso do separador '\' foi substituído pelo uso do separador '^'. 
+### Para execução do programa no windows, o uso do separador '\' foi substituído pelo uso do separador '^'. 
 
 #### 1. Criar uma tabela
 <p> Nome: cantoresRecifenses </p>
