@@ -1,0 +1,17 @@
+{
+    "NomeCantor": {
+        "S": "Chico Science"
+    },
+    "HitMusical": {
+        "S": "A Cidade"
+    },
+    "ID_Cantor": {
+        "S": "001"
+    },
+    "GeneroMusical": {
+        "S": "Manguebeat"
+    },
+    "AnoLancamento": {
+        "N": "1994"
+    }
+}

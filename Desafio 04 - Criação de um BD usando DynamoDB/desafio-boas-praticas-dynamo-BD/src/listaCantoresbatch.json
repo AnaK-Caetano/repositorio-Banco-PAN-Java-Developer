@@ -1,0 +1,23 @@
+[
+    {
+        "NomeCantor": {"S": "Reginaldo Rossi"},
+        "HitMusical": {"S": "Garçom"},
+        "ID_Cantor": {"S": "002"},
+        "GeneroMusical": {"S": "Brega Clássico"}
+    },
+    {
+        "NomeCantor": {"S": "Lenine"},
+        "HitMusical": {"S": "Leão do Norte"},
+        "ID_Cantor": {"S": "003"},
+        "GeneroMusical": {"S": "MPB"},
+        "AnoLancamento": {"N": "2004"}
+    },
+    {
+        "NomeCantor": {"S": "Priscila Sena"},
+        "HitMusical": {"S": "Novo Namorado"},
+        "ID_Cantor": {"S": "004"},
+        "GeneroMusical": {"S": "Brega Romântico"},
+        "AnoLancamento": {"N": "2007"}
+    
+    }
+]
